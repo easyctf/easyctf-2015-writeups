@@ -57,7 +57,7 @@
    * [Looking for Letters (65)](looking_for_letters_65.md)
    * [String Change (70)](string_change_70.md)
    * [Oink (85)](oink_85.md)
-   * Oink Oink (115)
+   * [Oink Oink (115)](oink_oink_115.md)
    * Coordinates (150)
    * Faster Math (325)
    * Obfuscated (400)
