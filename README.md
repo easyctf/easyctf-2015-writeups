@@ -13,3 +13,5 @@ We really appreciate all the hard work you guys put into solving these problems,
 We ask that you first submit your writeup as an *external writeup* (similar to the Github [CTFs](http://github.com/ctfs) repo), a link at the bottom of the page to your website, or paste, or gist. There's no required format for your writeup. This is also an excellent way to gain recognition for your CTF team!
 
 We'll review the writeups provided and put the best ones or a mashup of the best ones into the actual page of the book. Don't worry, your writeups will still be listed after we post official solutions!
+
+To submit your writeup link, fork the repo, add your link, and submit a pull request. We'll review it shortly.
