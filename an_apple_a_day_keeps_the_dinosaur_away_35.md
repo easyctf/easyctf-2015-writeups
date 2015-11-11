@@ -2,7 +2,7 @@
 
 ## Problem
 
-Oh look, it's a perfectly innocent picture of an apple. Nothing to see here!
+Oh look, it's a perfectly innocent picture of an [apple](files/apple.jpg). Nothing to see here!
 
 ## Hint
 
