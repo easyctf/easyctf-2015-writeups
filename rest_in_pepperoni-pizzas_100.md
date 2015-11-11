@@ -4,4 +4,5 @@
 
 ## Hint
 
-##
+## External Writeups
+*None yet!*
