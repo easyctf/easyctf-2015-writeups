@@ -6,6 +6,8 @@
 
 ## Hint
 
+Just look around.
+
 ## External Writeups
 
 *None yet!*
