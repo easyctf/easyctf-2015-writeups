@@ -6,4 +6,4 @@
 
 ## External Writeups
 
-*Not yet!*
+*None yet!*
