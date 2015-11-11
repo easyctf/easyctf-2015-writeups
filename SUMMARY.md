@@ -29,7 +29,7 @@
    * [lolteam (65)](lolteam_65.md)
    * [A Picture is Worth a Thousand Words (100)](a_picture_is_worth_a_thousand_words_100.md)
    * [Rest in Pepperoni-Pizzas (100)](rest_in_pepperoni-pizzas_100.md)
-   * iSpy (120)
+   * [iSpy (120)](ispy_120.md)
    * 49 Shades of Gray (125)
    * Who is this god? (175)
    * Pixels (180)
