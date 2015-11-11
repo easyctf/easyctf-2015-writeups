@@ -62,7 +62,7 @@
    * [Faster Math (325)](faster_math_325.md)
    * [Obfuscated (400)](obfuscated_400.md)
 * Recon
-   * IOException (450)
+   * [IOException (450)](ioexception_450.md)
 * Web
    * Plot Twist (20)
    * Teach Me How to Write Like This (30)
