@@ -12,6 +12,8 @@ Read the input from a file called&nbsp;`can-you-even.in`&nbsp;that&#39;s in the 
 
 ## Hint
 
+If you need help, try looking at the Python Tutorial in the Learn section! Perhaps you should try looking into the modulo (%) operator. 
+
 ## External Writeups
 
 *None yet!*
