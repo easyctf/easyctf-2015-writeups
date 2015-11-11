@@ -55,7 +55,7 @@
    * [Sort-of Easy (50)](sort-of_easy_50.md)
    * [EasyCTF Day (55)](easyctf_day_55.md)
    * [Looking for Letters (65)](looking_for_letters_65.md)
-   * String Change (70)
+   * [String Change (70)](string_change_70.md)
    * Oink (85)
    * Oink Oink (115)
    * Coordinates (150)
