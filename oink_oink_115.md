@@ -18,6 +18,8 @@ Read the input from a file called&nbsp;`piglatin2.in`&nbsp;that&#39;s in the cur
 
 ## Hint
 
+Work backwards! You'll probably need the `chr()` and `ord()` functions! Also, string splicing is pretty cool in Python ;)
+
 ## External Writeups
 
 *None yet!*
