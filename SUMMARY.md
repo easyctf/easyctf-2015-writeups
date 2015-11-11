@@ -19,7 +19,7 @@
    * [Black Table (450)](black_table_450.md)
    * [Cave Johnson (450)](cave_johnson_450.md)
    * [Zob's Password (450)](zobs_password_450.md)
-   * Bigger is Better (500)
+   * [Bigger is Better (500)](bigger_is_better_500.md)
    * Known Plaintext 2 (500)
    * Respiratory Sinus Arrhythmia (550)
    * Matrices (575)
