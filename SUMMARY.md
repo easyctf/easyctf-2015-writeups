@@ -48,7 +48,7 @@
 * Miscellaneous
    * [Survey (15)](survey_15.md)
 * Programming
-   * Hello World! (20)
+   * [Hello World! (20)](hello_world_20.md)
    * If Logic (30)
    * Can You Even??? (40)
    * Math Class (50)
