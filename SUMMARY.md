@@ -70,7 +70,7 @@
    * [Wastebin 1 (90)](wastebin_1_90.md)
    * [Easter (100)](easter_100.md)
    * [Personal Home Page (225)](personal_home_page_225.md)
-   * Super Secure Lemons (225)
+   * [Super Secure Lemons (225)](super_secure_lemons_225.md)
    * Wastebin 2 (250)
    * Pretty Horrible Programming (275)
    * Wastebin 3 (325)
