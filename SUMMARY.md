@@ -40,6 +40,8 @@
   * Now You See Me, Now You Don't (75)
   * Mrrow????? (75)
   * San Francisco Symphony (75)
+  * Hijacked! (100)
+  * Same Difference (125)
 * Master Challenge
 * Miscellaneous
 * Programming
