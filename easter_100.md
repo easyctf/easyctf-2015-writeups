@@ -2,7 +2,7 @@
 
 ## Problem
 
-[page](https://easyctf.com/static/problems/easter/easter.html)
+[page](https://www.easyctf.com/static/problems/easter/easter.html)
 
 ## Hint
 
