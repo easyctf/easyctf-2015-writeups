@@ -38,6 +38,8 @@
   * Repetitive Strain Injury (475)
 * Linux
   * Now You See Me, Now You Don't (75)
+  * Mrrow????? (75)
+  * San Francisco Symphony (75)
 * Master Challenge
 * Miscellaneous
 * Programming
