@@ -38,7 +38,7 @@
    * [Corrupted (375)](corrupted_375.md)
    * [Repetitive Strain Injury (475)](repetitive_strain_injury_475.md)
 * Linux
-   * Now You See Me, Now You Don't (75)
+   * [Now You See Me, Now You Don't (75)](now_you_see_me,_now_you_dont_75.md)
    * Mrrow????? (75)
    * San Francisco Symphony (75)
    * Hijacked! (100)
