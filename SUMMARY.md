@@ -59,7 +59,7 @@
    * [Oink (85)](oink_85.md)
    * [Oink Oink (115)](oink_oink_115.md)
    * [Coordinates (150)](coordinates_150.md)
-   * Faster Math (325)
+   * [Faster Math (325)](faster_math_325.md)
    * Obfuscated (400)
 * Recon
    * IOException (450)
