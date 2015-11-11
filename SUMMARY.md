@@ -22,7 +22,7 @@
    * [Bigger is Better (500)](bigger_is_better_500.md)
    * [Known Plaintext 2 (500)](known_plaintext_2_500.md)
    * [Respiratory Sinus Arrhythmia (550)](respiratory_sinus_arrhythmia_550.md)
-   * Matrices (575)
+   * [Matrices (575)](matrices_575.md)
 * Forensics
    * An apple a day keeps the dinosaur away? (35)
    * Liar (50)
