@@ -8,7 +8,7 @@
 * Cryptography
    * [Julius Save Me (20)](julius_save_me_20.md)
    * [Misaka Mikoto (50)](misaka_mikoto_50.md)
-   * I <3 SLEEPING (125)
+   * [I <3 SLEEPING (125)](i_3_sleeping_125.md)
    * XOR (150)
    * Hardwood Floors (200)
    * H4sh3D (200)
