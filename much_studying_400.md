@@ -6,6 +6,10 @@ I suck at AP Lit (what is engwrish). I was able to steal the grader for the AP L
 
 Source can be found [here](files/aplit.c), and the binary with the actual flag is on the shell server at `/problems/aplit`.
 
+## Hint
+
+Oh poop! Forgot to give you my prompt. Here it is: Choose a novel that you hate, and then write an essay about it.
+
 ## External Writeups
 
 *None yet!*
