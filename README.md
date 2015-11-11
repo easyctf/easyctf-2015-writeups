@@ -1,4 +1,4 @@
-My Awesome Book
-=======
+EasyCTF 2015
+======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Thanks for playing EasyCTF! We hope you really enjoyed the contest, despite several server issues that we were having. The solutions to the problems are in this book. If you would like to contribute, a Github repo will be up soon.
