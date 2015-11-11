@@ -32,7 +32,7 @@
    * [iSpy (120)](ispy_120.md)
    * [49 Shades of Gray (125)](49_shades_of_gray_125.md)
    * [Who is this god? (175)](who_is_this_god_175.md)
-   * Pixels (180)
+   * [Pixels (180)](pixels_180.md)
    * Accelerator (300)
    * sayonara (325)
    * Corrupted (375)
