@@ -7,3 +7,7 @@ Zob is sending his friends a password to one of his game accounts so that they c
 ## Hint
 
 Zob makes short passwords
+
+## External Writeups
+
+*None yet!*
