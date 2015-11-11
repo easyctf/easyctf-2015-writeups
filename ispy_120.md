@@ -6,6 +6,8 @@ We intercepted some suspicious network activity. We think that the enemy has bee
 
 ## Hint
 
+You're going to need to be able to open that file. Something like [Wireshark](https://www.wireshark.org) might help.
+
 ## External Writeups
 
 *None yet!*
