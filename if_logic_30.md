@@ -12,6 +12,8 @@ Read the input from a file called&nbsp;`if-logic.in`&nbsp;that&#39;s in the curr
 
 ## Hint
 
+If you need help, try looking at the Python Tutorial in the Learn section!
+
 ## External Writeups
 
 *None yet!*
