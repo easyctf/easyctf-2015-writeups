@@ -69,7 +69,7 @@
    * [2147483648% Secure (35)](2147483648_secure_35.md)
    * [Wastebin 1 (90)](wastebin_1_90.md)
    * [Easter (100)](easter_100.md)
-   * Personal Home Page (225)
+   * [Personal Home Page (225)](personal_home_page_225.md)
    * Super Secure Lemons (225)
    * Wastebin 2 (250)
    * Pretty Horrible Programming (275)
