@@ -16,6 +16,8 @@ You already know this, but don&#39;t forget to end your output with a newline.
 
 ## Hint
 
+First, look into string splitting, and the <code>ord()</code> and <code>chr()</code> functions!
+
 ## External Writeups
 
 *None yet!*
