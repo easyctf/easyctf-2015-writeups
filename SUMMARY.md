@@ -42,7 +42,7 @@
    * [Mrrow????? (75)](mrrow_75.md)
    * [San Francisco Symphony (75)](san_francisco_symphony_75.md)
    * [Hijacked! (100)](hijacked_100.md)
-   * Same Difference (125)
+   * [Same Difference (125)](same_difference_125.md)
 * Master Challenge
    * Launch Code (650)
 * Miscellaneous
