@@ -23,6 +23,19 @@
   * Respiratory Sinus Arrhythmia (550)
   * Matrices (575)
 * Forensics
+  * An apple a day keeps the dinosaur away? (35)
+  * Liar (50)
+  * lolteam (65)
+  * A Picture is Worth a Thousand Words (100)
+  * Rest in Pepperoni-Pizzas (100)
+  * iSpy (120)
+  * 49 Shades of Gray (125)
+  * Who is this god? (175)
+  * Pixels (180)
+  * Accelerator (300)
+  * sayonara (325)
+  * Corrupted (375)
+  * Repetitive Strain Injury (475)
 * Linux
 * Master Challenge
 * Miscellaneous
