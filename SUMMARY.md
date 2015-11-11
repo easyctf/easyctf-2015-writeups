@@ -18,7 +18,7 @@
    * [All Zob's Fault (350)](all_zobs_fault_350.md)
    * [Black Table (450)](black_table_450.md)
    * [Cave Johnson (450)](cave_johnson_450.md)
-   * Zob's Password (450)
+   * [Zob's Password (450)](zobs_password_450.md)
    * Bigger is Better (500)
    * Known Plaintext 2 (500)
    * Respiratory Sinus Arrhythmia (550)
