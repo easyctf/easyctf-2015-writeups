@@ -23,6 +23,8 @@ Read the input from a file called&nbsp;`piglatin1.in`&nbsp;that&#39;s in the cur
 
 ## Hint
 
+Words are defined as separated by spaces. :)
+
 ## External Writeups
 
 *None yet!*
