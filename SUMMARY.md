@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Binary Exploitation
    * [Buffering (80)](buffering_80.md)
-   * Much Studying (400)
+   * [Much Studying (400)](much_studying_400.md)
    * ADoughBee (500)
 * Cryptography
    * Julius Save Me (20)
