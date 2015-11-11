@@ -74,6 +74,6 @@
    * [Wastebin 2 (250)](wastebin_2_250.md)
    * [Pretty Horrible Programming (275)](pretty_horrible_programming_275.md)
    * [Wastebin 3 (325)](wastebin_3_325.md)
-   * Infinity Star (375)
+   * [Infinity Star (375)](infinity_star_375.md)
    * Borkened (400)
 
