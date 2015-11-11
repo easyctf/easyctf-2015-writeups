@@ -16,3 +16,13 @@ We'll review the writeups provided and put the best ones or a mashup of the best
 
 Problems
 ------
+
+* Binary Exploitation
+* Cryptography
+* Forensics
+* Linux
+* Master Challenge
+* Miscellaneous
+* Programming
+* Recon
+* Web
