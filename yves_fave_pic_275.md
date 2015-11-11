@@ -6,7 +6,7 @@
 
 ## Hint
 
-Note: This is a VERY rare occurence. @chaosagent NEVER smiles. Make note of it. Oh, wait, you wanted a hint? Fine. You need some programming to solve this efficiently.
+Note: This is a VERY rare occurrence. @chaosagent NEVER smiles. Make note of it. Oh, wait, you wanted a hint? Fine. You need some programming to solve this efficiently.
 
 ## External Writeups
 
