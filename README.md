@@ -8,4 +8,5 @@ Make sure you read through all the writeups and understand how to do them! The w
 Contributing
 ------
 
-We really appreciate all the hard work you guys put into solving these problems!
+We really appreciate all the hard work you guys put into solving these problems, so we'd like to feature your writeups here! But since these writeups will be provided to and read by everyone, we ask that you first submit your writeup as an *external writeup*, a link at the bottom of the page to your website, or paste, or gist. This is also an excellent way to gain recognition for your CTF team!
+
