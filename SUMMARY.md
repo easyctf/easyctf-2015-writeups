@@ -71,7 +71,7 @@
    * [Easter (100)](easter_100.md)
    * [Personal Home Page (225)](personal_home_page_225.md)
    * [Super Secure Lemons (225)](super_secure_lemons_225.md)
-   * Wastebin 2 (250)
+   * [Wastebin 2 (250)](wastebin_2_250.md)
    * Pretty Horrible Programming (275)
    * Wastebin 3 (325)
    * Infinity Star (375)
