@@ -51,7 +51,7 @@
    * [Hello World! (20)](hello_world_20.md)
    * [If Logic (30)](if_logic_30.md)
    * [Can You Even??? (40)](can_you_even_40.md)
-   * Math Class (50)
+   * [Math Class (50)](math_class_50.md)
    * Sort-of Easy (50)
    * EasyCTF Day (55)
    * Looking for Letters (65)
