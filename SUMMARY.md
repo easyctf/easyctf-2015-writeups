@@ -60,7 +60,7 @@
    * [Oink Oink (115)](oink_oink_115.md)
    * [Coordinates (150)](coordinates_150.md)
    * [Faster Math (325)](faster_math_325.md)
-   * Obfuscated (400)
+   * [Obfuscated (400)](obfuscated_400.md)
 * Recon
    * IOException (450)
 * Web
