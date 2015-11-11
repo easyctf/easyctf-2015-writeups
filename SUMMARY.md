@@ -16,7 +16,7 @@
    * [Known Plaintext 1 (300)](known_plaintext_1_300.md)
    * [Known Plaintext 3 (300)](known_plaintext_3_300.md)
    * [All Zob's Fault (350)](all_zobs_fault_350.md)
-   * Black Table (450)
+   * [Black Table (450)](black_table_450.md)
    * Cave Johnson (450)
    * Zob's Password (450)
    * Bigger is Better (500)
