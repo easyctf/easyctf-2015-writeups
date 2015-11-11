@@ -44,7 +44,7 @@
    * [Hijacked! (100)](hijacked_100.md)
    * [Same Difference (125)](same_difference_125.md)
 * Master Challenge
-   * Launch Code (650)
+   * [Launch Code (650)](launch_code_650.md)
 * Miscellaneous
    * Survey (15)
 * Programming
