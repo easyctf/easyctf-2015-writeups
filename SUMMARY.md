@@ -65,7 +65,7 @@
    * [IOException (450)](ioexception_450.md)
 * Web
    * [Plot Twist (20)](plot_twist_20.md)
-   * Teach Me How to Write Like This (30)
+   * [Teach Me How to Write Like This (30)](teach_me_how_to_write_like_this_30.md)
    * 2147483648% Secure (35)
    * Wastebin 1 (90)
    * Easter (100)
