@@ -54,7 +54,7 @@
    * [Math Class (50)](math_class_50.md)
    * [Sort-of Easy (50)](sort-of_easy_50.md)
    * [EasyCTF Day (55)](easyctf_day_55.md)
-   * Looking for Letters (65)
+   * [Looking for Letters (65)](looking_for_letters_65.md)
    * String Change (70)
    * Oink (85)
    * Oink Oink (115)
