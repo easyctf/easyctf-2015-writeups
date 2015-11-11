@@ -37,6 +37,7 @@
   * Corrupted (375)
   * Repetitive Strain Injury (475)
 * Linux
+  * Now You See Me, Now You Don't (75)
 * Master Challenge
 * Miscellaneous
 * Programming
