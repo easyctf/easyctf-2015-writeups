@@ -6,7 +6,7 @@
 
 ## Hint
 
->You might not have permission to read the file, but someone else does ;)
+You might not have permission to read the file, but someone else does ;)
 
 ## External Writeups
 
