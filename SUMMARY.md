@@ -12,7 +12,7 @@
    * [XOR (150)](xor_150.md)
    * [Hardwood Floors (200)](hardwood_floors_200.md)
    * [H4sh3D (200)](h4sh3d_200.md)
-   * Yve's Fave Pic (275)
+   * [Yve's Fave Pic (275)](yves_fave_pic_275.md)
    * Known Plaintext 1 (300)
    * Known Plaintext 3 (300)
    * All Zob's Fault (350)
