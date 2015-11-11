@@ -36,7 +36,7 @@
    * [Accelerator (300)](accelerator_300.md)
    * [sayonara (325)](sayonara_325.md)
    * [Corrupted (375)](corrupted_375.md)
-   * Repetitive Strain Injury (475)
+   * [Repetitive Strain Injury (475)](repetitive_strain_injury_475.md)
 * Linux
    * Now You See Me, Now You Don't (75)
    * Mrrow????? (75)
