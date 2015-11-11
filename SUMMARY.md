@@ -26,7 +26,7 @@
 * Forensics
    * [An apple a day keeps the dinosaur away? (35)](an_apple_a_day_keeps_the_dinosaur_away_35.md)
    * [Liar (50)](liar_50.md)
-   * lolteam (65)
+   * [lolteam (65)](lolteam_65.md)
    * A Picture is Worth a Thousand Words (100)
    * Rest in Pepperoni-Pizzas (100)
    * iSpy (120)
