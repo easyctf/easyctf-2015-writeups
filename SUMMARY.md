@@ -46,7 +46,7 @@
 * Master Challenge
    * [Launch Code (650)](launch_code_650.md)
 * Miscellaneous
-   * Survey (15)
+   * [Survey (15)](survey_15.md)
 * Programming
    * Hello World! (20)
    * If Logic (30)
