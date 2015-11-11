@@ -9,7 +9,7 @@
    * [Julius Save Me (20)](julius_save_me_20.md)
    * [Misaka Mikoto (50)](misaka_mikoto_50.md)
    * [I <3 SLEEPING (125)](i_3_sleeping_125.md)
-   * XOR (150)
+   * [XOR (150)](xor_150.md)
    * Hardwood Floors (200)
    * H4sh3D (200)
    * Yve's Fave Pic (275)
