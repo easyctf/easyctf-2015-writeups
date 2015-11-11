@@ -11,7 +11,7 @@
    * [I <3 SLEEPING (125)](i_3_sleeping_125.md)
    * [XOR (150)](xor_150.md)
    * [Hardwood Floors (200)](hardwood_floors_200.md)
-   * H4sh3D (200)
+   * [H4sh3D (200)](h4sh3d_200.md)
    * Yve's Fave Pic (275)
    * Known Plaintext 1 (300)
    * Known Plaintext 3 (300)
