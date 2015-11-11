@@ -39,7 +39,7 @@
    * [Repetitive Strain Injury (475)](repetitive_strain_injury_475.md)
 * Linux
    * [Now You See Me, Now You Don't (75)](now_you_see_me,_now_you_dont_75.md)
-   * Mrrow????? (75)
+   * [Mrrow????? (75)](mrrow_75.md)
    * San Francisco Symphony (75)
    * Hijacked! (100)
    * Same Difference (125)
