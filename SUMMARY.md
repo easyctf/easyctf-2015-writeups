@@ -21,7 +21,7 @@
    * [Zob's Password (450)](zobs_password_450.md)
    * [Bigger is Better (500)](bigger_is_better_500.md)
    * [Known Plaintext 2 (500)](known_plaintext_2_500.md)
-   * Respiratory Sinus Arrhythmia (550)
+   * [Respiratory Sinus Arrhythmia (550)](respiratory_sinus_arrhythmia_550.md)
    * Matrices (575)
 * Forensics
    * An apple a day keeps the dinosaur away? (35)
