@@ -72,7 +72,7 @@
    * [Personal Home Page (225)](personal_home_page_225.md)
    * [Super Secure Lemons (225)](super_secure_lemons_225.md)
    * [Wastebin 2 (250)](wastebin_2_250.md)
-   * Pretty Horrible Programming (275)
+   * [Pretty Horrible Programming (275)](pretty_horrible_programming_275.md)
    * [Wastebin 3 (325)](wastebin_3_325.md)
    * Infinity Star (375)
    * Borkened (400)
