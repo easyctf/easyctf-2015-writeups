@@ -6,7 +6,7 @@
    * [Much Studying (400)](much_studying_400.md)
    * [ADoughBee (500)](adoughbee_500.md)
 * Cryptography
-   * Julius Save Me (20)
+   * [Julius Save Me (20)](julius_save_me_20.md)
    * Misaka Mikoto (50)
    * I <3 SLEEPING (125)
    * XOR (150)
