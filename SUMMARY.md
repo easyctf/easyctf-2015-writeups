@@ -34,7 +34,7 @@
    * [Who is this god? (175)](who_is_this_god_175.md)
    * [Pixels (180)](pixels_180.md)
    * [Accelerator (300)](accelerator_300.md)
-   * sayonara (325)
+   * [sayonara (325)](sayonara_325.md)
    * Corrupted (375)
    * Repetitive Strain Injury (475)
 * Linux
