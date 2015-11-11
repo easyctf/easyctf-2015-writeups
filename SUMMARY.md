@@ -15,7 +15,7 @@
    * [Yve's Fave Pic (275)](yves_fave_pic_275.md)
    * [Known Plaintext 1 (300)](known_plaintext_1_300.md)
    * [Known Plaintext 3 (300)](known_plaintext_3_300.md)
-   * All Zob's Fault (350)
+   * [All Zob's Fault (350)](all_zobs_fault_350.md)
    * Black Table (450)
    * Cave Johnson (450)
    * Zob's Password (450)
