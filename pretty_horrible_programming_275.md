@@ -6,6 +6,8 @@
 
 ## Hint
 
+How is the webpage checking your password?
+
 ## External Writeups
 
 *None yet!*
