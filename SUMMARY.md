@@ -67,7 +67,7 @@
    * [Plot Twist (20)](plot_twist_20.md)
    * [Teach Me How to Write Like This (30)](teach_me_how_to_write_like_this_30.md)
    * [2147483648% Secure (35)](2147483648_secure_35.md)
-   * Wastebin 1 (90)
+   * [Wastebin 1 (90)](wastebin_1_90.md)
    * Easter (100)
    * Personal Home Page (225)
    * Super Secure Lemons (225)
