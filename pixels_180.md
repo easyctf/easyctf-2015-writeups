@@ -10,4 +10,4 @@ Did you know you can do math on images?
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/crypto.md#pixels---180-pts
