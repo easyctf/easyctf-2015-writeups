@@ -23,4 +23,4 @@ Hint: it's not Feynman.
 
 ## External Writeups
 
-*None yet!*
+https://github.com/mafhcow/easyctf-2015-writeups/blob/master/launch_code_650.md
