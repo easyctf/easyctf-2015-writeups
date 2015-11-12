@@ -10,4 +10,4 @@ What's wrong with storing things on the client's browser?
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#wastebin-1---90-pts-
