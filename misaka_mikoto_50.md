@@ -10,4 +10,4 @@ railguns are cool
 
 ## External Writeups
 
-*None yet!*
+*https://www.gitbook.com/book/johnwig/misaka-mikoto/details*
