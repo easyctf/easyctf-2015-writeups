@@ -14,4 +14,4 @@ There's a pretty cool Linux command called `diff` that might be useful for you.
 
 ## External Writeups
 
-*None yet!*
+https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/same_difference_125.md
