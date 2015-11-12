@@ -68,3 +68,18 @@ If you `.decode("hex")` the "flag", you'll find that it's actually an easter egg
 >>> "6567677b6567675f6e6f745f666f756e647d".decode("hex")
 'egg{egg_not_found}'
 ```
+
+### Dank Memes
+
+https://www.easyctf.com/api/dank_memes has the egg `egg{i_like_my_memes_nice_and_fresh}`
+
+### Rules Page
+
+Go to https://www.easyctf.com/rules and look at the source
+
+```HTML
+<p>
+	Most of the flags that you will find will be have the format <code>easyctf{example_flag}</code>.
+	<!-- and all easter eggs will have the format egg{lol_why_are_you_checkig_the_source_on_the_rules_page} -->
+</p>
+```
