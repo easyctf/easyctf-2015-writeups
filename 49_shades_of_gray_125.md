@@ -14,4 +14,4 @@ How can we tell which color is which?
 
 ## External Writeups
 
-*None yet!*
+[https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a](https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a)
