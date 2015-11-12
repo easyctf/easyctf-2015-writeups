@@ -12,4 +12,4 @@ Oh poop! Forgot to give you my prompt. Here it is: Choose a novel that you hate,
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/binary_exploitation.md#much-studying----400-pts
