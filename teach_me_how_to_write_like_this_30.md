@@ -10,4 +10,4 @@ Where can you find out what files are in a server?
 
 ## External Writeups
 
-*None yet!*
+https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/teach_me_how_to_write_like_this.md
