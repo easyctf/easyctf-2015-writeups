@@ -10,4 +10,4 @@ How is the webpage checking your password?
 
 ## External Writeups
 
-*None yet!*
+https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#pretty-horrible-programming---275-pts
