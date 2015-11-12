@@ -14,4 +14,4 @@ There's a pretty cool Linux command called `diff` that might be useful for you.
 
 ## External Writeups
 
-*None yet!*
+*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/linux.md*
