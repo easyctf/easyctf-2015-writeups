@@ -10,4 +10,4 @@ What is [SQL](http://www.w3schools.com/sql/)?
 
 ## External Writeups
 
-https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#wastebin-3---325-pts-
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#wastebin-3---325-pts-
