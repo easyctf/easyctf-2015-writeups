@@ -10,4 +10,4 @@ Darn. That `c` file isn't going to help much either. How can we find the flag us
 
 ## External Writeups
 
-*None yet!*
+*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/linux.md*
