@@ -10,4 +10,4 @@ The correct flag is the one you think is correct
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/crypto.md#crypto
