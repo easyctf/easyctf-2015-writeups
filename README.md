@@ -1,7 +1,7 @@
 EasyCTF 2015
 ======
 
-Thanks for playing EasyCTF! We hope you really enjoyed the contest, despite several server issues that we were having. The solutions to the problems are in this book. If you would like to contribute, a Github repo will be up soon.
+Thanks for playing EasyCTF! We hope you really enjoyed the contest, despite several server issues that we were having. The solutions to the problems are in this book. If you would like to contribute, make a pull-request to https://github.com/EasyCTF/easyctf-2015-writeups.
 
 Make sure you read through all the writeups and understand how to do them! The writeups are one of the most important parts of the CTF because you could learn new things from every problem, whether you know it or not!
 
