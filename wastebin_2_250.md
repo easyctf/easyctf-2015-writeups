@@ -10,4 +10,4 @@ Where can you find out what files are in a server?
 
 ## External Writeups
 
-*None yet!*
+https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#wastebin-2---250-pts
