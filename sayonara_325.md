@@ -14,4 +14,4 @@ Why does that right channel sound strange?
 
 ## External Writeups
 
-*None yet!*
+*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md*
