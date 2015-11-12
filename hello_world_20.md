@@ -10,4 +10,4 @@ If you're really stuck, contact one of the mods on the [chat](https://www.easyct
 
 ## External Writeups
 
-*None yet!*
+https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/hello_world_20.md
