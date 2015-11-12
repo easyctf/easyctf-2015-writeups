@@ -17,3 +17,14 @@ Here's the final scoreboard (disregarding time):
     CCSF_HACKERS            5 egg(s)
     breastmilk              5 egg(s)
     BCCHack                 4 egg(s)
+
+## Writeups
+
+### Easter Egg Page
+
+Similar to Wastebin 2, the Easter Egg rules and submissions page could be found in `robots.txt` of the main site, which contained the following:
+
+    User-agent: *
+    Disallow: /95125f09551360c5294d180b013d047d.html
+    
+Navigating to `95125f09551360c5294d180b013d047d.html` would give you the flag, `egg{gotta_catch_'em_all}`.
