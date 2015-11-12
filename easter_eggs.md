@@ -56,3 +56,15 @@ For this one, you would need to port-scan `web.easyctf.com`.
 
 Navigating to `web.easyctf.com:1337` reveals: `Easter Egg Hunt: egg{9_much_h4kking}`
 
+### 404
+
+The 404 page says:
+
+>Ok, ok, here's your flag. `6567677b6567675f6e6f745f666f756e647d` Just kidding. Click [here](https://www.easyctf.com/) to go back home.
+
+If you `.decode("hex")` the "flag", you'll find that it's actually an easter egg.
+
+```python
+>>> "6567677b6567675f6e6f745f666f756e647d".decode("hex")
+'egg{egg_not_found}'
+```
