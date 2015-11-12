@@ -83,3 +83,15 @@ Go to https://www.easyctf.com/rules and look at the source
 	<!-- and all easter eggs will have the format egg{lol_why_are_you_checkig_the_source_on_the_rules_page} -->
 </p>
 ```
+
+### Stalker
+
+Many of the EasyCTF organizers are on the CTF team [Anomalous Materials](http://anomat.cf). The egg can be found in the page source of the team website.
+
+```html
+/* egg{lel_st4lk3r_much} */
+```
+
+### "Helpful" Eggs
+
+There were 3 possible easter eggs that could be earned by reporting bugs, or catching holes.
