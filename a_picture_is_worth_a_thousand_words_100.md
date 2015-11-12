@@ -10,4 +10,4 @@ Grep is always your friend.
 
 ## External Writeups
 
-*https://gist.github.com/1lastBr3ath/33303ac6957eb532c129*
+*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md*
