@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Credits
+* [Credits](credits.md)
 * Binary Exploitation
    * [Buffering (80)](buffering_80.md)
    * [Much Studying (400)](much_studying_400.md)
