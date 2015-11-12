@@ -10,4 +10,4 @@ Just look around.
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#easter---100-pts
