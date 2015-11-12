@@ -16,4 +16,4 @@ If you need help, try looking at the Python Tutorial in the Learn section!
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/if_logic.md
