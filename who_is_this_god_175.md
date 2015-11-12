@@ -12,4 +12,4 @@ P.S. Everything you need is in the image...although you might need sharper visio
 
 ## External Writeups
 
-*https://gist.github.com/9e4a91f0470ec176c0ad.git*
+* https://gist.github.com/1lastBr3ath/9e4a91f0470ec176c0ad
