@@ -14,4 +14,4 @@ Why does that right channel sound strange?
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/C2TF/writeups/tree/master/2015/easyctf/sayonara
