@@ -10,4 +10,4 @@ Grep is always your friend.
 
 ## External Writeups
 
-*None yet!*
+*https://gist.github.com/1lastBr3ath/33303ac6957eb532c129*
