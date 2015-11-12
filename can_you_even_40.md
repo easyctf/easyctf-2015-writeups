@@ -16,4 +16,4 @@ If you need help, try looking at the Python Tutorial in the Learn section! Perha
 
 ## External Writeups
 
-https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/can_you_even_40.md
+* https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/can_you_even_40.md
