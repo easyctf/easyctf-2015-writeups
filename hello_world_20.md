@@ -11,3 +11,4 @@ If you're really stuck, contact one of the mods on the [chat](https://www.easyct
 ## External Writeups
 
 https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/hello_world_20.md
+https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/Hello_World.md
