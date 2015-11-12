@@ -10,4 +10,4 @@ Hint: the flag is on this site.
 
 ## External Writeups
 
-https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/borkened.md
+* https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/borkened.md
