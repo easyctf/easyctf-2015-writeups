@@ -14,4 +14,4 @@ How can we tell which color is which?
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/C2TF/writeups/tree/master/2015/easyctf/49-shades-of-grey

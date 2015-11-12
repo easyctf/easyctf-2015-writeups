@@ -10,4 +10,4 @@ Zob works at the Russian Space Agency.
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/C2TF/writeups/tree/master/2015/easyctf/all-zobs-fault
