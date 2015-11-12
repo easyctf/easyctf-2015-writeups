@@ -9,3 +9,5 @@ We really enjoyed running this competition, and we hope you really enjoyed it to
 and always,
 
 ![Viewers like you](files/viewers_like_you.png)
+
+Thanks to all the participants who made this competition a fun experience!
