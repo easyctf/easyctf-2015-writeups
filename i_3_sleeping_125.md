@@ -16,4 +16,4 @@ Final hint: sqrt(ABCDEFGHIJKLMNOPQRSTUVWXY). Where'd my Z's go?
 
 ## External Writeups
 
-*None yet!*
+https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/sleeping.md
