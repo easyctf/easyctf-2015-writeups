@@ -14,6 +14,6 @@ How can we tell which color is which?
 
 ## External Writeups
 
-[https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a](https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a)
+* [https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a](https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a)
 
 * https://github.com/C2TF/writeups/tree/master/2015/easyctf/49-shades-of-grey
