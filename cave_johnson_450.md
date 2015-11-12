@@ -12,4 +12,4 @@ Welcome to [Small Hole Sciences](files/cave-johnson.txt).
 
 ## External Writeups
 
-*None yet!*
+https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/cave_johnson_450.md
