@@ -15,3 +15,4 @@ Why does that right channel sound strange?
 ## External Writeups
 
 * https://github.com/C2TF/writeups/tree/master/2015/easyctf/sayonara
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md

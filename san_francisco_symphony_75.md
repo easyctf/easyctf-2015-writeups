@@ -11,5 +11,5 @@ Darn. That `c` file isn't going to help much either. How can we find the flag us
 ## External Writeups
 
 * http://adeveloperblog.com/EasyCTF-SFS.html
-
 * https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/san_francisco_symphony_75.md
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/linux.md
