@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Credits
 * Binary Exploitation
    * [Buffering (80)](buffering_80.md)
    * [Much Studying (400)](much_studying_400.md)
@@ -76,5 +77,4 @@
    * [Wastebin 3 (325)](wastebin_3_325.md)
    * [Infinity Star (375)](infinity_star_375.md)
    * [Borkened (400)](borkened_400.md)
-* Credits
 
