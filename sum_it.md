@@ -11,4 +11,4 @@ Read the input from a file called `addition.in` that's in the current working di
 If you need help, try looking at the Python Tutorial in the Learn section!  
   
 ## External Writeups  
-https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/sum_it.md
+* https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/sum_it.md
