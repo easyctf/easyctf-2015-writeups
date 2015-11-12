@@ -10,4 +10,4 @@ What are `hidden files` in Linux?
 
 ## External Writeups
 
-*None yet!*
+https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/now_you_see_me%2C_now_you_dont_75.md
