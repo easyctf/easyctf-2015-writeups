@@ -10,4 +10,4 @@ Apples are suspicious. Don't trust apples. They always have something to hide . 
 
 ## External Writeups
 
-*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md
