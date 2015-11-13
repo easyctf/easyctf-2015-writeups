@@ -12,4 +12,4 @@ Nope ;)
 
 ## External Writeups
 
-*None yet!*
+https://gist.github.com/ndefilippis/019ce3b8809de01f4c34
