@@ -10,4 +10,5 @@ railguns are cool
 
 ## External Writeups
 
-*https://www.gitbook.com/book/johnwig/misaka-mikoto/details*
+* https://www.gitbook.com/book/johnwig/misaka-mikoto/details
+* https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/misaka_mikoto_50.md

@@ -10,4 +10,4 @@ Try to look up useful Linux commands.
 
 ## External Writeups
 
-*None yet!*
+*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/linux.md*

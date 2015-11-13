@@ -28,3 +28,70 @@ Similar to Wastebin 2, the Easter Egg rules and submissions page could be found 
     Disallow: /95125f09551360c5294d180b013d047d.html
     
 Navigating to `95125f09551360c5294d180b013d047d.html` would give you the flag, `egg{gotta_catch_'em_all}`.
+
+### 1337
+
+For this one, you would need to port-scan `web.easyctf.com`.
+
+    failedxyz@backtick:~$ nmap web.easyctf.com -p-
+    
+    Starting Nmap 6.47 ( http://nmap.org ) at 2015-11-11 22:34 PST
+    Nmap scan report for web.easyctf.com (104.131.228.101)
+    Host is up (0.085s latency).
+    Not shown: 65524 closed ports
+    PORT      STATE SERVICE
+    22/tcp    open  ssh
+    1337/tcp  open  waste
+    8001/tcp  open  vcom-tunnel
+    10200/tcp open  unknown
+    10201/tcp open  unknown
+    10202/tcp open  unknown
+    10204/tcp open  unknown
+    10206/tcp open  unknown
+    10207/tcp open  unknown
+    10210/tcp open  unknown
+    10300/tcp open  unknown
+    
+    Nmap done: 1 IP address (1 host up) scanned in 24.00 seconds
+
+Navigating to `web.easyctf.com:1337` reveals: `Easter Egg Hunt: egg{9_much_h4kking}`
+
+### 404
+
+The 404 page says:
+
+>Ok, ok, here's your flag. `6567677b6567675f6e6f745f666f756e647d` Just kidding. Click [here](https://www.easyctf.com/) to go back home.
+
+If you `.decode("hex")` the "flag", you'll find that it's actually an easter egg.
+
+```python
+>>> "6567677b6567675f6e6f745f666f756e647d".decode("hex")
+'egg{egg_not_found}'
+```
+
+### Dank Memes
+
+https://www.easyctf.com/api/dank_memes has the egg `egg{i_like_my_memes_nice_and_fresh}`
+
+### Rules Page
+
+Go to https://www.easyctf.com/rules and look at the source
+
+```HTML
+<p>
+	Most of the flags that you will find will be have the format <code>easyctf{example_flag}</code>.
+	<!-- and all easter eggs will have the format egg{lol_why_are_you_checkig_the_source_on_the_rules_page} -->
+</p>
+```
+
+### Stalker
+
+Many of the EasyCTF organizers are on the CTF team [Anomalous Materials](http://anomat.cf). The egg can be found in the page source of the team website.
+
+```html
+/* egg{lel_st4lk3r_much} */
+```
+
+### "Helpful" Eggs
+
+There were 3 possible easter eggs that could be earned by reporting bugs, or catching holes.

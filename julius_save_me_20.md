@@ -11,3 +11,4 @@ You might want to read up on [Caesar ciphers](https://en.wikipedia.org/wiki/Caes
 ## External Writeups
 
 * https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/julius_save_me_20.md
+* https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/Julius_Save_Me.md

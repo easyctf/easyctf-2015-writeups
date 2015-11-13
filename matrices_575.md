@@ -10,4 +10,4 @@ Technically, all the math you need for this problem you learned in Algebra 2.
 
 ## External Writeups
 
-*None yet!*
+* https://gist.github.com/ndefilippis/2cbd12572c6ff1f0150a
