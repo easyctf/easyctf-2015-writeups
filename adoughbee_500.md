@@ -12,4 +12,4 @@ How does the program check your serial?
 
 ## External Writeups
 
-https://gist.github.com/ext0/baddfdec440acb164f03
+* https://gist.github.com/ext0/baddfdec440acb164f03
