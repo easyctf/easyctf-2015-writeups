@@ -10,4 +10,5 @@ What is [SQL](http://www.w3schools.com/sql/)?
 
 ## External Writeups
 
-*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/web.md*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/web.md
+* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#wastebin-3---325-pts-
