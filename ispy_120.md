@@ -10,4 +10,4 @@ You're going to need to be able to open that file. Something like [Wireshark](ht
 
 ## External Writeups
 
-*https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md
