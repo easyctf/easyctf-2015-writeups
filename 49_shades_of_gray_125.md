@@ -17,3 +17,4 @@ How can we tell which color is which?
 * [https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a](https://gist.github.com/wtfaremyinitials/70e173caf29228bb345a)
 
 * https://github.com/C2TF/writeups/tree/master/2015/easyctf/49-shades-of-grey
+* https://github.com/jdeans289/CTF/blob/master/Problems/49_shades_of_gray.md
