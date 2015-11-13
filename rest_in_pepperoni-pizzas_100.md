@@ -11,3 +11,4 @@ Have fun! If you do it by the paper-and-scissors method, share it to [@easyctf](
 ## External Writeups
 
 * https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/pepperoni_pizza.md
+* https://github.com/Cholle13/CTF/blob/master/rest_in_pepperoni-pizzas.md
