@@ -12,4 +12,3 @@ Where can you find out what files are in a server?
 
 * https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/teach_me_how_to_write_like_this.md
 * https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/web.md
-* https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/web.md#super-secure-lemons---225-pts
