@@ -10,4 +10,4 @@ Do you like painting?
 
 ## External Writeups
 
-*None yet!*
+* [https://github.com/Joseph-C-Cavazos/easyctf-2015-writeups/blob/master/coordinates.md](https://github.com/Joseph-C-Cavazos/easyctf-2015-writeups/blob/master/coordinates.md)
