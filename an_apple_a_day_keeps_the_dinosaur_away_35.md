@@ -10,4 +10,5 @@ Apples are suspicious. Don't trust apples. They always have something to hide . 
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md
+* https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/an_apple_a_day.md

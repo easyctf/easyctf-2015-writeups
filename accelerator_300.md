@@ -10,4 +10,4 @@ Yeah chaosagent likes Accelerator blah blah blah
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/accelerator.md

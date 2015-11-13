@@ -12,4 +12,5 @@ P.S. Everything you need is in the image...although you might need sharper visio
 
 ## External Writeups
 
-*None yet!*
+* https://gist.github.com/1lastBr3ath/9e4a91f0470ec176c0ad
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md

@@ -12,4 +12,4 @@ Figure it out yourself ;)
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/known_plaintext_3_300.md

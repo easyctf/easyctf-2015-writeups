@@ -10,4 +10,5 @@ Don't know how to open [.pcapng](http://fileinfo.com/extension/pcapng) files?
 
 ## External Writeups
 
-*None yet!*
+* http://benichmt1.github.io/tutorial/2015/11/12/EasyCTF-2015-writeup/
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/forensics.md
