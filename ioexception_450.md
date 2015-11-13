@@ -10,4 +10,4 @@ This is a recon problem. Clues are scattered over the internet, and you have to 
 
 ## External Writeups
 
-https://gist.github.com/ndefilippis/b1d8e5a954d717734ca8
+* https://gist.github.com/ndefilippis/b1d8e5a954d717734ca8
