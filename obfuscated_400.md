@@ -12,4 +12,4 @@ Note: there may be multiple correct answers. The grader runs the same code that'
 
 ## External Writeups
 
-*None yet!*
+*https://gist.github.com/wanqizhu/419dc3f279fd1e521f97
