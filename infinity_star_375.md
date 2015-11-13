@@ -12,4 +12,4 @@ If the transfer money feature is still under testing, who do you think can use i
 
 ## External Writeups
 
- *https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/web.md
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/web.md
