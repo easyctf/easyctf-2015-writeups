@@ -12,3 +12,4 @@ If you need help, try looking at the Python Tutorial in the Learn section!
   
 ## External Writeups  
 * https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/sum_it.md
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/programming.md#sum-it---30-points
