@@ -13,3 +13,4 @@ Note: there may be multiple correct answers. The grader runs the same code that'
 ## External Writeups
 
 * https://gist.github.com/wanqizhu/419dc3f279fd1e521f97
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/programming.md#obfuscated---400-points-

@@ -22,4 +22,4 @@ Work backwards! You'll probably need the `chr()` and `ord()` functions! Also, st
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/programming.md#oink-oink---115-points
