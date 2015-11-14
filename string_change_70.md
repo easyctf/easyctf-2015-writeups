@@ -20,4 +20,4 @@ First, look into string splitting, and the <code>ord()</code> and <code>chr()</c
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/programming.md#string-change---70-points-
