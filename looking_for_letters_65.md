@@ -16,4 +16,4 @@ If you need help, try looking at the Python Tutorial in the Learn section!
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/programming.md#looking-for-letters---65-points
