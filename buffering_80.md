@@ -11,3 +11,4 @@ Read a little bit about the stack [here](https://www.exploit-db.com/docs/28475.p
 ## External Writeups
 
 * https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/binary_exploitation.md#buffering---80-pts
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/binary_exploitation.md#buffering---80-pts
