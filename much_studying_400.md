@@ -13,3 +13,4 @@ Oh poop! Forgot to give you my prompt. Here it is: Choose a novel that you hate,
 ## External Writeups
 
 * https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/binary_exploitation.md#much-studying----400-pts
+* https://github.com/1lastBr3ath/EasyCTF-2015-Writeup/blob/master/binary_exploitation.md#much-studying---400-points-
