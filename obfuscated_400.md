@@ -13,3 +13,4 @@ Note: there may be multiple correct answers. The grader runs the same code that'
 ## External Writeups
 
 * https://gist.github.com/wanqizhu/419dc3f279fd1e521f97
+*https://github.com/jacobj10/EasyCTF/blob/Obfuscated/Obfuscript.md
