@@ -46,7 +46,7 @@
    * [Same Difference (125)](same_difference_125.md)
 * Master Challenge
    * [Launch Code (650)](launch_code_650.md)
-* Miscellaneous
+* [Miscellaneous](miscellaneous.md)
    * [Survey (15)](survey_15.md)
 * [Programming](programming.md)
    * [Hello World! (20)](hello_world_20.md)
