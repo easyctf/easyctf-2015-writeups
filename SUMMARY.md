@@ -48,7 +48,7 @@
    * [Launch Code (650)](launch_code_650.md)
 * Miscellaneous
    * [Survey (15)](survey_15.md)
-* Programming
+* [Programming](programming.md)
    * [Hello World! (20)](hello_world_20.md)
    * [Sum It! (30)](sum_it.md)
    * [If Logic (30)](if_logic_30.md)
