@@ -38,7 +38,7 @@
    * [sayonara (325)](sayonara_325.md)
    * [Corrupted (375)](corrupted_375.md)
    * [Repetitive Strain Injury (475)](repetitive_strain_injury_475.md)
-* Linux
+* [Linux](linux.md)
    * [Now You See Me, Now You Don't (75)](now_you_see_me,_now_you_dont_75.md)
    * [Mrrow????? (75)](mrrow_75.md)
    * [San Francisco Symphony (75)](san_francisco_symphony_75.md)
