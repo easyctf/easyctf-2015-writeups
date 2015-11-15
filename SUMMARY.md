@@ -6,7 +6,7 @@
    * [Buffering (80)](buffering_80.md)
    * [Much Studying (400)](much_studying_400.md)
    * [ADoughBee (500)](adoughbee_500.md)
-* Cryptography
+* [Cryptography](cryptography.md)
    * [Julius Save Me (20)](julius_save_me_20.md)
    * [Misaka Mikoto (50)](misaka_mikoto_50.md)
    * [I <3 SLEEPING (125)](i_3_sleeping_125.md)
