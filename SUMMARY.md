@@ -63,7 +63,7 @@
    * [Coordinates (150)](coordinates_150.md)
    * [Faster Math (325)](faster_math_325.md)
    * [Obfuscated (400)](obfuscated_400.md)
-* Recon
+* [Recon](recon.md)
    * [IOException (450)](ioexception_450.md)
 * [Web](web.md)
    * [Plot Twist (20)](plot_twist_20.md)
