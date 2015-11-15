@@ -44,7 +44,7 @@
    * [San Francisco Symphony (75)](san_francisco_symphony_75.md)
    * [Hijacked! (100)](hijacked_100.md)
    * [Same Difference (125)](same_difference_125.md)
-* Master Challenge
+* [Master Challenge](master_challenge.md)
    * [Launch Code (650)](launch_code_650.md)
 * [Miscellaneous](miscellaneous.md)
    * [Survey (15)](survey_15.md)
