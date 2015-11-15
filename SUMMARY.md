@@ -24,7 +24,7 @@
    * [Known Plaintext 2 (500)](known_plaintext_2_500.md)
    * [Respiratory Sinus Arrhythmia (550)](respiratory_sinus_arrhythmia_550.md)
    * [Matrices (575)](matrices_575.md)
-* Forensics
+* [Forensics](forensics.md)
    * [An apple a day keeps the dinosaur away? (35)](an_apple_a_day_keeps_the_dinosaur_away_35.md)
    * [Liar (50)](liar_50.md)
    * [lolteam (65)](lolteam_65.md)
