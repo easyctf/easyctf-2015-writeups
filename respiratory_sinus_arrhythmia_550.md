@@ -10,4 +10,4 @@ Fractions :D
 
 ## External Writeups
 
-*None yet!*
+* https://github.com/MegaAbsol/EasyCTF-2015-Writeups/blob/master/Respiratory%20Sinus%20Arrhythmia%20-%20550.md
