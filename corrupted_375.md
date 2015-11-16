@@ -13,4 +13,3 @@ On a more serious note, stop trying to fix the image. It's not broken -- it's hi
 ## External Writeups
 
 * https://github.com/MegaAbsol/EasyCTF-2015-Writeups/blob/master/Corrupted%20-%20375.md
-* [PHS Absol's Writeup](https://github.com/MegaAbsol/EasyCTF-2015-Writeups/blob/master/Corrupted%20-%20375.md)
