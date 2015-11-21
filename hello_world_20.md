@@ -8,6 +8,18 @@ Use the programming interface to complete this task. Print the line `Hello, Easy
 
 If you're really stuck, contact one of the mods on the [chat](https://www.easyctf.com/chat), or check out our [video tutorial](https://www.youtube.com/watch?v=GP1ZfzRSclQ)!
 
+## Writeup
+```python
+f = open("hello-world.out", 'w')
+f.write("Hello, EasyCTF!\n")
+f.close()
+
+```
+
+
+## Flag
+`easyctf{welc0me_two_easyCtf}`
+
 ## External Writeups
 
 * https://github.com/jbmonsterbananas/easyctf-2015-writeups/blob/master/hello_world_20.md
