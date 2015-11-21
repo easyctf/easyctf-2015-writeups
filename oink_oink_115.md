@@ -30,9 +30,9 @@ for x in range(len(words)):
   if words[x][-3:] == "yay":
     final.append(words[x][:-3])
   elif words[x][-3:-2] != "y":
-    if ord(words[x][:1]) >= 65 and ord(words[x][:1]) <= 90: #between A-Z
+    if ord(words[x][:1]) >= 65 and ord(words[x][:1]) <= 90: #if capital first letter
       final.append(chr(ord(words[x][-3:-2]) - 32) + chr(ord(words[x][:1]) + 32) + words[x][1:-3]) 
-    else:
+    else: #if lowercase first letter
       final.append(words[x][-3:-2] + words[x][:-3])
 result = " ".join(final)
 file2 = open("piglatin2.out", 'w')
