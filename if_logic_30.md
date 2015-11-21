@@ -14,6 +14,29 @@ Read the input from a file called&nbsp;`if-logic.in`&nbsp;that&#39;s in the curr
 
 If you need help, try looking at the Python Tutorial in the Learn section!
 
+## Writeup
+```python
+file1 = open("if-logic.in", 'r')
+s = file1.read().strip()
+a = s.split(",")
+text = ""
+for x in a:
+  if int(x) >= 0 and int(x) <= 50:
+    text += "hi\n"
+  elif int(x) > 50 and int(x) <= 100:
+    text += "hey\n"
+  else:
+    text += "hello\n"
+file2 = open("if-logic.out", 'w')
+file2.write(text)
+file1.close()
+file2.close()
+
+```
+
+##Flag
+`easyctf{is_it_hi_or_hey_or_something_else}`
+
 ## External Writeups
 
 * https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/if_logic.md
