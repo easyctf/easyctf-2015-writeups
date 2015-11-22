@@ -16,7 +16,7 @@ Actually Wireshark was not entirely necessary in solving this challenge.
 
 We open the file in wireshark, like the hint tells us to do.
 
-The problem tells us that "the enemy has been exchanging important data", so export all HTTP objects (File > Export Objects > HTTP)
+The problem tells us that "the enemy has been exchanging important data", so we take a look at the HTTP objects (File > Export Objects > HTTP)
 
 ![](screenshots/pcap1.png)
 
@@ -28,7 +28,7 @@ Saving this, we get an image with the flag
 
 ![](files/Drawing.jpg)
 
-### Without Wireshark Method
+### tcpdump Method
 
 We open the file using tcpdump. In the terminal, we type
 
