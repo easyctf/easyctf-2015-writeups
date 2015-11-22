@@ -16,11 +16,11 @@ In the terminal, we type
 
 `$ strings apple.jpg`
 
-Unfortunately, this just returns a lot of gibberish.
+Unfortunately, this just prints a lot of gibberish.
 
-What if we look for instances of easyctf{} (the flag format)?
+What if we look for instances of easyctf{} instead?
 
-`$ strings -a -t x apple.jpg | grep 'easyctf{.*}'`
+`$ strings -t x apple.jpg | grep 'easyctf{.*}'`
 
 This returns the line
 

@@ -8,6 +8,26 @@ My friends like anime way too much . . . they decided that to give me an encoded
 
 railguns are cool
 
+## Writeup
+
+Since this is a crypto challenge, we first do a quick google search of "railgun cipher"
+
+One of the results mentions something called a "rail fence cipher"
+
+Using [rumkin](http://rumkin.com/tools/cipher/railfence.php), we can try different rails on the ciphertext.
+
+A rail of 5 gives us `railgunsarethebesteasyctfl3v3l5esp3rs`
+
+If you didn't want to go click through the rails, googling "misaka mikoto" yields a wikia page, which tells us
+
+> She is the third ranked Level 5 esper in Academy City, and is nicknamed the Railgun due to her signature move.
+
+Using this clue we can guess that the rail value is 5
+
+## Flag
+
+`easyctf{l3v3l5esp3rs}`
+
 ## External Writeups
 
 * https://www.gitbook.com/book/johnwig/misaka-mikoto/details
