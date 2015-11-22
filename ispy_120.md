@@ -43,7 +43,7 @@ Near the bottom, we see a suspicious instance of `IEND`
 
 This suggests a PNG file. Modifying our command to grep for instances of PNG, we type
 
-`tcpdump -ns 0 -X -r ispy.pcapng | grep PNG`
+`$ tcpdump -ns 0 -X -r ispy.pcapng | grep PNG`
 
 This returns
 
