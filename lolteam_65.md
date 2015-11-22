@@ -8,6 +8,20 @@ There's a suspicious team out there called **lolteam**, I got my eyes on them fo
 
 Don't know how to open [.pcapng](http://fileinfo.com/extension/pcapng) files?
 
+## Writeup
+
+Opening up the file in Wireshark, we scan the packets and see a `POST` request, which seems pretty important.
+
+![](screenshots/lolteam1.png)
+
+Digging around in the packet, we see the lolteam password, which also happens to be the flag.
+
+![](screenshots/lolteam2.png)
+
+## Flag
+
+`easyctf{no,_lolteam_is_not_an_admin_account}`
+
 ## External Writeups
 
 * http://benichmt1.github.io/tutorial/2015/11/12/EasyCTF-2015-writeup/
