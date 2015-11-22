@@ -17,7 +17,6 @@ Opening up the file in Wireshark, we scan the packets and see a `POST` request, 
 Digging around in the packet, we see the lolteam password, which also happens to be the flag.
 
 ![](screenshots/lolteam2.png)
-
 ## Flag
 
 `easyctf{no,_lolteam_is_not_an_admin_account}`
