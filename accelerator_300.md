@@ -72,7 +72,7 @@ Replacing all of the 1s with Bs and the 0s with As, we get `BAABBAABBBAABAAAABAB
 Plugging this into [rumkin](http://rumkin.com/tools/cipher/baconian.php), we get `THEFLAGISBACONONT`.
 
 ##Flag
-easyctf{baconont}
+`easyctf{baconont}`
 
 ## External Writeups
 
