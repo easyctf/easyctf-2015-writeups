@@ -36,7 +36,7 @@ This returns three instances of EOF.
 00118280  45 4f 46 0d 52 49 46 46  84 b0 93 04 57 41 56 45  |EOF.RIFF....WAVE|
 ```
 
-Printing three lines, before each instance, we notice that only the last one yields `%%EOF`.
+Printing three lines before each instance, we notice that only the last one yields `%%EOF`.
 
 `$ hexdump -C Downloads/steg.pdf | grep -B 3 EOF`
 
@@ -72,7 +72,7 @@ Replacing all of the 1s with Bs and the 0s with As, we get `BAABBAABBBAABAAAABAB
 Plugging this into [rumkin](http://rumkin.com/tools/cipher/baconian.php), we get `THEFLAGISBACONONT`.
 
 ##Flag
-easyctf{baconont)
+easyctf{baconont}
 
 ## External Writeups
 
