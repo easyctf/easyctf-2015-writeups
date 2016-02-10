@@ -2,7 +2,7 @@
 
 ## Problem
 
-Hey, do you want to learn more about Steganography? Cool, read [this](files/steg.pdf) article. Just friendly learning. We're not hiding ANYTHING \*nervous laugh\*
+Hey, do you want to learn more about Steganography? Cool, read [this](https://mega.nz/#!sYt2SCTD!0PNX2SaWn5gDfrv3LlguHDMVJqKJbbJFk9WUrjpRROw) article. Just friendly learning. We're not hiding ANYTHING \*nervous laugh\*
 
 ## Hint
 
